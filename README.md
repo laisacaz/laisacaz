@@ -17,7 +17,7 @@
 🔗 [Linkedin](https://www.linkedin.com/in/laisacazarotto1609)
 
 ### My Projects
-- BuildWise:
+- BuildWise: ERP Web Application for construction companies.
   - [buildwise-front](https://github.com/laisacaz/buildwise-app.git) 
   - [buildwise-back](https://github.com/laisacaz/buildwise-api.git)
 
@@ -38,7 +38,7 @@
 🔗 [Linkedin](https://www.linkedin.com/in/laisacazarotto1609)
 
 ### Meus projetos
-- BuildWise:
+- BuildWise: Aplicação WEB ERP para construtoras.
   - [buildwise-front](https://github.com/laisacaz/buildwise-app.git) 
   - [buildwise-back](https://github.com/laisacaz/buildwise-api.git)
 
