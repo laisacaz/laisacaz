@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hello, I'm Laísa! 👋 | Olá, sou a Laísa 👋 
 
-<!--
-**laisacaz/laisacaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Navigation
+- English
+- Portuguese
+	
+---
+### <a name="english"></a>English
 
-Here are some ideas to get you started:
+🔧 **Full Stack Developer** | 💡 **Passionate about technology and innovation**  
+💼 Currently working at **Log Sistemas** as a **Full Stack Dev**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How to reach me**
+
+📫 [laisacaz@hotmail.com](laisa:laisacaz@hotmail.com)
+
+🔗 [Linkedin](https://www.linkedin.com/in/laisacazarotto1609)
+
+### My Projects
+- BuildWise:
+  - [buildwise-front](https://github.com/laisacaz/buildwise-app.git) 
+  - [buildwise-back](https://github.com/laisacaz/buildwise-api.git)
+
+### Technologies I use:
+- Nuxt 2, VueJs 2, Vuetify, Typescript, C# .NET, Postgres
+
+ ---
+
+ ### <a name="portuguese"></a>Portuguese
+ 
+🔧 **Desenvolvedora Full Stack** | 💡 **Apaixonada por tecnologia e inovação**  
+💼 Atualmente trabalho na **Log Sistemas** como **Dev Fullstack**.
+
+ **Como me encontrar**
+ 
+📫 [laisacaz@hotmail.com](laisa:laisacaz@hotmail.com)
+
+🔗 [Linkedin](https://www.linkedin.com/in/laisacazarotto1609)
+
+### Meus projetos
+- BuildWise:
+  - [buildwise-front](https://github.com/laisacaz/buildwise-app.git) 
+  - [buildwise-back](https://github.com/laisacaz/buildwise-api.git)
+
+### Tecnologias que utilizo:                                                      
+- Nuxt 2, VueJs 2, Vuetify, Typescript, C# .NET, Postgres
+
