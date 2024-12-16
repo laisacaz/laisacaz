@@ -3,9 +3,7 @@
 🔧 **Full Stack Developer** | 💡 **Passionate about technology and innovation**  
 🔧 **Desenvolvedora Full Stack** | 💡 **Apaixonada por tecnologia e inovação**  
 
-💼 Currently working at **Log Sistemas** as a **Full Stack Dev**.
-
-💼 Atualmente trabalho na **Log Sistemas** como **Dev Fullstack**.
+💼 Currently working at **Log Sistemas** as a **Full Stack Dev** | Atualmente trabalho na **Log Sistemas** como **Dev Fullstack**.
 
 **How to reach me | Como me encontrar**
 
